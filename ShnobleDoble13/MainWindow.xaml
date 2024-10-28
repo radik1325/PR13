@@ -1,0 +1,55 @@
+﻿<Window x:Class="ShnobleDoble13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShnobleDoble13"
+        mc:Ignorable="d"
+        Title="Списки групп" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="200"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal" VerticalAlignment="Center" Grid.Row="0" Margin="100,0,0,0">
+            <TextBlock Text="Группа:" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20 0 0 0" FontSize="17"></TextBlock>
+            <TextBox Width="100"></TextBox>
+            <TextBlock Text="СтудентыГруппы" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20 0 0 0" FontSize="17"></TextBlock>
+        </StackPanel>
+        
+        <Grid Grid.Row="1" Grid.RowSpan="2" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" FontSize="17" Text="Выбор группы" VerticalAlignment="Center"></TextBlock>
+            <ComboBox Grid.Row="0" Grid.Column="1" Margin="20 0 0 0" x:Name="GroupComboBox" Width="200" Height="30"
+                      DisplayMemberPath="Title"></ComboBox>
+
+            <TextBlock Grid.Row="1" Grid.Column="0" FontSize="17" Text="Новая Фамилия И.О." VerticalAlignment="Center"></TextBlock>
+            <TextBox Grid.Row="1" Grid.Column="1" Margin="20 0 0 0" x:Name="NameFioTB" Width="200" Height="30"></TextBox>
+            <Button x:Name="AddButton" Click="AddButton_Click" Content="Записать" VerticalAlignment="Center"
+                    HorizontalAlignment="Right" Margin="10 0 0 0" Width="100" Height="20" Grid.Column="2" Grid.Row="1"></Button>
+        </Grid>
+        <DataGrid AutoGenerateColumns="False" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="DataGridUsers">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="КодСтудента" Binding="{Binding Id, Mode=TwoWay}"></DataGridTextColumn>
+                <DataGridTextColumn Header="ФамилияИП" Binding="{Binding Fio, Mode=TwoWay}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Группа" Binding="{Binding Groups.Title, Mode=TwoWay}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" VerticalAlignment="Center" Grid.Row="5">
+            <Button Click="EditButton_Click" Width="100" Height="20" Margin="0 0 50 0" HorizontalAlignment="Left" x:Name="EditButton" Content="Редактировать"></Button>
+            <Button Click="SaveButton_Click" Width="100" Height="20" Margin="50 0 0 0" HorizontalAlignment="Right" x:Name="SaveButton" Content="Сохранить"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

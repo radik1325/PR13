@@ -1,0 +1,44 @@
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\bin\Debug\ShnobleDoble13.exe.config
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\bin\Debug\ShnobleDoble13.exe
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\bin\Debug\ShnobleDoble13.pdb
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\bin\Debug\EntityFramework.dll
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\bin\Debug\EntityFramework.xml
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13.csproj.AssemblyReference.cache
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\MainWindow.g.cs
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\App.g.cs
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13_Content.g.cs
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13_MarkupCompile.cache
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13_MarkupCompile.lref
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\MainWindow.baml
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13.g.resources
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13.Properties.Resources.resources
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13.csproj.GenerateResource.cache
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13.csproj.CoreCompileInputs.cache
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13.csproj.CopyComplete
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13.exe
+C:\Users\gyakovlev\source\repos\ShnobleDoble13\ShnobleDoble13\obj\Debug\ShnobleDoble13.pdb
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\bin\Debug\ShnobleDoble13.exe.config
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\bin\Debug\ShnobleDoble13.exe
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\bin\Debug\ShnobleDoble13.pdb
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\bin\Debug\EntityFramework.dll
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\bin\Debug\EntityFramework.SqlServer.dll
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\bin\Debug\EntityFramework.xml
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\bin\Debug\EntityFramework.SqlServer.xml
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\bin\Debug\ru\EntityFramework.resources.dll
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13.csproj.AssemblyReference.cache
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\MainWindow.g.cs
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\App.g.cs
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13_Content.g.cs
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13_MarkupCompile.cache
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13_MarkupCompile.lref
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\MainWindow.baml
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13.g.resources
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13.Properties.Resources.resources
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13.csproj.GenerateResource.cache
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13.csproj.CoreCompileInputs.cache
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleD.173EEE7A.Up2Date
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13.exe
+D:\WIN10\Рабочий стол\mixa\Pr13-main\ShnobleDoble13\obj\Debug\ShnobleDoble13.pdb
